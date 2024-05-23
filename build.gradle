@@ -1,4 +1,4 @@
-//add only the wanted dependencies tthat are not in the file
+//add only the wanted dependencies tthat are not in the file- by ki
 apply plugin: 'com.android.application'
 
 android {
